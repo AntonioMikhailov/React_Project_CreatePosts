@@ -1,0 +1,52 @@
+ h2, h3 {
+  margin: 0px 0px 0px 0px;
+ }
+ button {
+  border: solid 1px rgb(249, 249, 249);
+  padding: 3px 5px 3px 5px;
+  background-color: rgb(113, 113, 113);
+  color: rgb(242, 242, 242);
+ }
+ input {
+  width: 300px;
+  margin: 0px 10px 0px 0px;
+ }
+ .header {
+  width: 500px;
+  background-color: rgb(5, 96, 216);
+  font-size: 20px;
+  font-weight: bold;
+  padding: 5px 10px 5px 10px;
+  color: rgb(241, 241, 241);
+  span {
+   font-size: 16px;
+     }
+ }
+ .postRow {
+background-color: rgb(225, 225, 225);
+  width: 500px;
+  height: 100%;
+  gap: 10px;
+  margin: 10px 0px 10px 0px;
+  padding: 5px;
+ }
+ .postRow__name {
+  font-size: 17px;
+  font-weight: bold;
+  color: rgb(149, 18, 1);
+ }
+ .inputRow {
+  display: flex;
+ }
+ .searchRow {
+  margin: 10px 0px 0px 0px;
+  display: flex;
+   gap: 10px;
+ }
+ .itemName {
+  width: 30px;
+  font-weight: bold;
+ }
+ .active {
+  background-color: rgb(5, 96, 216);
+ }
